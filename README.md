@@ -1,2 +1,2 @@
-# Project-8
-Treehouse FEWD Project 8
+# API-Employee-Directory
+Employee directory used with the third-party API's
